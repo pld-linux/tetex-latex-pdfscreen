@@ -5,6 +5,7 @@ Release:	0.1
 License:	unknown
 Group:		Applications/Publishing/TeX
 Source0:	http://www.river-valley.com/download/pdfscreen-%{version}.tar.gz
+# Source0-md5:	ddf154211337e883cb59202e5921a5ac
 URL:		http://www.river-valley.com/download/
 Requires:	tetex-latex
 Requires(post,postun):	/usr/bin/texhash
