@@ -12,7 +12,7 @@ Requires(post,postun):	/usr/bin/texhash
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %define	pdfscreendir %{_datadir}/texmf/tex/latex/pdfscreen
-%define	texhash	[ ! -x %{_bindir}/texhash ] || %{_bindir}/texhash 1>&2 ; 
+%define	texhash	[ ! -x %{_bindir}/texhash ] || %{_bindir}/texhash 1>&2 ;
 
 %description
 pdfscreen
@@ -33,10 +33,10 @@ install pdfscreen.cfg.specimen $RPM_BUILD_ROOT%{pdfscreendir}/pdfscreen.cfg
 %clean
 rm -rf $RPM_BUILD_ROOT
 
-%post 
+%post
 %texhash
 
-%postun 
+%postun
 %texhash
 
 %files
