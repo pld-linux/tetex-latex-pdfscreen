@@ -1,5 +1,5 @@
 Summary:	PDFscreen - redesigning the PDF output for both computer monitor and printing
-Summary(pl):	PDFscreen - przetwarzanie wyj¶cia PDF by nawada³o siê na monitor i do wydruków
+Summary(pl):	PDFscreen - przetwarzanie wyj¶cia PDF by nadawa³o siê na monitor i do wydruków
 Name:		tetex-latex-pdfscreen
 Version:	1.5
 Release:	0.1
