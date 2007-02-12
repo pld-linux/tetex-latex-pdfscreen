@@ -1,5 +1,5 @@
 Summary:	PDFscreen - redesigning the PDF output for both computer monitor and printing
-Summary(pl):	PDFscreen - przetwarzanie wyj¶cia PDF by nadawa³o siê na monitor i do wydruków
+Summary(pl.UTF-8):   PDFscreen - przetwarzanie wyjÅ›cia PDF by nadawaÅ‚o siÄ™ na monitor i do wydrukÃ³w
 Name:		tetex-latex-pdfscreen
 Version:	1.5
 Release:	0.1
@@ -24,14 +24,14 @@ dimensions to fit into that of the computer screen. By changing the
 options to "print" you can switch the package to format the document
 in the conventional way as per the dictates of your class file.
 
-%description -l pl
-Pakiet PDFscreen pomaga przeprojektowywaæ wyj¶cie w formacie PDF z
-normalnych dokumentów przystosowanych do czytania z komputerowego
-monitora zachowuj±c swobodê formatowania dokumentu do konwencjonalnego
-wydruku. Zosta³o to osi±gniête przez przedefiniowanie marginesów i
-wysoko¶ci/szeroko¶ci strony oraz powi±zanych wymiarów, aby pasowa³y do
-tych u¿ywanych na ekranie komputera. Poprzez zmianê opcji na "print"
-(druk) mo¿na prze³±czyæ pakiet, by formatowa³ dokument w sposób
+%description -l pl.UTF-8
+Pakiet PDFscreen pomaga przeprojektowywaÄ‡ wyjÅ›cie w formacie PDF z
+normalnych dokumentÃ³w przystosowanych do czytania z komputerowego
+monitora zachowujÄ…c swobodÄ™ formatowania dokumentu do konwencjonalnego
+wydruku. ZostaÅ‚o to osiÄ…gniÄ™te przez przedefiniowanie marginesÃ³w i
+wysokoÅ›ci/szerokoÅ›ci strony oraz powiÄ…zanych wymiarÃ³w, aby pasowaÅ‚y do
+tych uÅ¼ywanych na ekranie komputera. Poprzez zmianÄ™ opcji na "print"
+(druk) moÅ¼na przeÅ‚Ä…czyÄ‡ pakiet, by formatowaÅ‚ dokument w sposÃ³b
 konwencjonalny, jak nakazuje plik klasy.
 
 %prep
